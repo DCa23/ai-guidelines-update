@@ -4,6 +4,12 @@ Inspired by laravel boost:update command. I find it very usefull to integrate te
 
 But sometimes you are not working with laravel, so I wanted a script to integrate a similar functionality.
 
+## Download
+
+```bash
+curl -O https://raw.githubusercontent.com/DCa23/ai-guidelines-update/refs/heads/main/updateguidelines.py
+```
+
 ## Usage
 
 The recommended way of using it is by adding the following .env values, and just executing the script
